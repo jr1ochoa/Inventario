@@ -1,0 +1,328 @@
+[12-Jul-2022 15:17:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/siif/public_html/view/personnelactions/personnelactions.form.php on line 146
+[12-Jul-2022 15:18:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/siif/public_html/view/personnelactions/personnelactions.form.php on line 146
+[13-Jul-2022 11:17:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/personnelactions/personnelactions.form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/personnelactions/personnelactions.form.php on line 7
+[13-Jul-2022 11:17:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/personnelactions/personnelactions.form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/personnelactions/personnelactions.form.php on line 7
+[13-Jul-2022 11:17:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/personnelactions/personnelactions.form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/personnelactions/personnelactions.form.php on line 7
+[13-Jul-2022 11:17:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/personnelactions/personnelactions.form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/personnelactions/personnelactions.form.php on line 7
+[13-Jul-2022 11:18:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/personnelactions/personnelactions.form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/personnelactions/personnelactions.form.php on line 7
+[13-Jul-2022 11:18:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/personnelactions/personnelactions.form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/personnelactions/personnelactions.form.php on line 7
+[13-Jul-2022 11:21:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/personnelactions/personnelactions.form.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/personnelactions/personnelactions.form.php on line 7
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[28-Mar-2023 17:00:36 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[28-Mar-2023 17:00:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[28-Mar-2023 17:00:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[28-Mar-2023 17:00:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[28-Mar-2023 17:00:48 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 135
+[28-Mar-2023 17:00:48 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 139
+[28-Mar-2023 17:00:48 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 143
+[28-Mar-2023 17:00:48 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 264
+[28-Mar-2023 17:00:48 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 267
+[28-Mar-2023 17:00:48 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 270
+[28-Mar-2023 17:00:48 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 276
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[20-Apr-2023 14:55:41 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[02-May-2023 20:31:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[02-May-2023 20:36:28 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[02-May-2023 20:51:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[02-May-2023 20:51:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[02-May-2023 20:51:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[02-May-2023 20:51:33 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 135
+[02-May-2023 20:51:33 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 139
+[02-May-2023 20:51:33 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 143
+[02-May-2023 20:51:33 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 264
+[02-May-2023 20:51:33 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 267
+[02-May-2023 20:51:33 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 270
+[02-May-2023 20:51:33 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 276
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[02-May-2023 20:55:59 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[02-May-2023 20:59:51 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[02-May-2023 20:59:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[02-May-2023 21:00:01 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[24-May-2023 22:56:34 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[24-May-2023 22:56:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[26-May-2023 17:01:44 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[26-May-2023 17:01:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[26-May-2023 17:01:53 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[26-May-2023 17:01:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[27-May-2023 16:40:40 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[31-May-2023 22:09:41 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[31-May-2023 22:09:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[31-May-2023 22:30:57 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[31-May-2023 22:30:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[01-Jun-2023 14:21:37 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[01-Jun-2023 14:21:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[01-Jun-2023 14:22:53 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[01-Jun-2023 14:22:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[01-Jun-2023 15:21:25 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[01-Jun-2023 15:21:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[01-Jun-2023 15:49:26 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[01-Jun-2023 15:49:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 8
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[02-Jun-2023 22:02:09 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[02-Jun-2023 22:02:35 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[07-Jun-2023 16:10:20 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[07-Jun-2023 16:10:45 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[07-Jun-2023 16:30:53 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[07-Jun-2023 16:40:43 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 30
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 31
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 32
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 39
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 45
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 55
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 61
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataU in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 67
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 80
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 86
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 92
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 244
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 248
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 252
+[07-Jun-2023 17:38:32 UTC] PHP Notice:  Undefined variable: dataPA in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 257
+[07-Jun-2023 17:52:37 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 38
+[07-Jun-2023 17:52:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/personnelactions/personnelactions.form.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/personnelactions/personnelactions.form.php on line 38
+[04-Mar-2024 03:05:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[04-Mar-2024 13:33:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[05-Mar-2024 15:46:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[05-Mar-2024 21:51:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[06-Mar-2024 14:38:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[08-Mar-2024 14:16:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[10-Mar-2024 21:56:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[12-Mar-2024 16:27:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[12-Mar-2024 17:34:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[15-Mar-2024 00:43:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[03-Apr-2024 13:56:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[03-Apr-2024 13:56:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[03-Apr-2024 13:56:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2

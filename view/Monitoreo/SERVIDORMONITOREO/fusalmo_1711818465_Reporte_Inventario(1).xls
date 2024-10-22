@@ -1,0 +1,779 @@
+<style>
+    table, td, th {
+        border: 1px solid;
+        width: 100%;
+    }
+</style>
+
+
+<table class="table">
+    <thead>
+       
+        <tr>
+      <th scope="col">Nombre de la Evaluacion</th>
+      <th scope="col">Pregunta</th>
+      <th scope="col">Resultado Global</th>
+      <th scope="col">Año de la Evaluación</th>
+      <th scope="col">Empleado</th>
+    </tr>
+    </thead>
+    <tbody>
+       
+  <tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Utiliza su  planeación como una herramienta permanente de retroalimentación y para generar informes a su jefe.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:42:23</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Usa efectivamente el tiempo y  distribuye las labores adecuadamente sin necesidad de supervisión estrecha.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:42:28</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Anticipa las necesidades a requerir en la ejecución de las actividades a realizar en su puesto de trabajo.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:42:35</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Ha dado cumplimiento a lo planificado de acuerdo a lo establecido en el Plan Operativo Anual.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:42:40</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Contribuye al logro de las metas y objetivos, considerando qué elementos deben ajustarse o cambiarse para alcanzarlos.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:42:48</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Los resultados  obtenidos han sido en el tiempo establecido.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:42:51</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Asume y transmite el conjunto de valores de la fundación.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:42:58</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Su comportamiento y actitudes demuestran sentido de pertenencia a la entidad.</td>
+                        <td>4</td>
+                        <td>2023-11-27 20:43:01</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Colabora en las actividades que la fundación realiza para la auto sostenibilidad.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:43:09</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Aplica  las  destrezas, técnicas  y  los  conocimientos necesarios para el cumplimiento de las actividades y funciones de su trabajo.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:43:20</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Conoce las herramientas necesarias para desarrollar sus labores.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:43:22</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Autoformación: se actualiza en los conocimientos, técnicas y nuevas herramientas tecnológicas  ante las nuevas tendencias en los temas relacionados  que pueden mejorar la capacidad para desempeñar el puesto.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:43:27</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Va más allá de los requisitos exigidos para obtener un producto o resultado mejor; evalúa la exactitud, seriedad, claridad y utilidad en las tareas encomendadas.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:43:34</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Busca formas para mejorar y promover la calidad de su trabajo.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:43:37</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Permanentemente hace propuestas de mejora a las otras áreas de la fundación.</td>
+                        <td>4</td>
+                        <td>2023-11-27 20:43:43</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Propone y encuentra formas nuevas y eficaces de hacer las cosas.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:43:51</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Ofrece alternativas innovadoras para solucionar problemas.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:43:54</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Resuelve los imprevistos de su trabajo y mejora los procedimientos.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:43:59</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Es sistemático en la ejecución de tareas y cuidadoso al trabajar con documentos computacionales o físicos correspondiente al puesto que se desempeña.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:44:08</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Tiene capacidad  de organización de las tareas para conseguir resultados de calidad, en los plazos requeridos.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:44:13</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Implementa sus propios métodos de  trabajo  y  organización  del tiempo de acuerdo a las características de las tareas que debe cumplir.</td>
+                        <td>4</td>
+                        <td>2023-11-27 20:44:22</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Conoce y pone en práctica el ideal de trabajo salesiano contribuyendo a un equipo de trabajo caracterizado por el testimonio de fe y la alegría que viene del amor de Dios.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:44:29</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Participa activamente en las reuniones de comunidad de su área.</td>
+                        <td>4</td>
+                        <td>2023-11-27 20:44:33</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a)Establece y mantiene comunicación con su jefe inmediato y compañeros, sobre situaciones importantes que les afectan en el desempeño del trabajo.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:44:49</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Muestra flexibilidad para aceptar nuevas ideas.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:44:54</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Establece y promueve relaciones interpersonales positivas con sus compañeros, propiciando un ambiente laboral de cordialidad y respeto.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:45:02</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Ha desarrollado actividades de contacto directo con los jóvenes.</td>
+                        <td>4</td>
+                        <td>2023-11-27 20:45:08</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Establece   relaciones   de   cooperación   y preocupación no  sólo  por  las  propias  responsabilidades  sino  también  por  las  del resto del equipo de trabajo. </td>
+                        <td>5</td>
+                        <td>2023-11-27 20:45:15</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Comparte conocimientos y habilidades, para alcanzar metas comunes o con una meta que no este relacionada con el interés propio.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:45:24</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Capacidad de trabajar con otros compañeros de otras áreas para conseguir metas comunes.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:45:33</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Da cumplimiento a  las obligaciones de su labor, reglas, normas y órdenes emanadas por la fundación o jefe; Y realiza la administración cuidadosa de los recursos entregados para la ejecución de su trabajo y da respuesta eficaz a la confianza depositada.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:45:39</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Es puntual en su horario laboral presencial y/o virtual, asi como en la asistencia de reuniones de trabajo.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:45:46</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Vela por la confidencialidad de datos, información sensible  de la fundación de los cuales tuvieren conocimiento por razón de su cargo.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:45:47</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Actitud espontánea de prestar colaboración en tareas laborales fuera de su responsabilidad.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:45:54</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Apoya de forma voluntaria en las actividades que la fundación realiza fuera de su horario de trabajo.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:46:01</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Proyecta actitud de colaboración  hacia los compañeros  y les ayuda cuando le es posible.</td>
+                        <td>5</td>
+                        <td>2023-11-27 20:46:04</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Utiliza su  planeación como una herramienta permanente de retroalimentación y para generar informes a su jefe.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:00:10</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Usa efectivamente el tiempo y  distribuye las labores adecuadamente sin necesidad de supervisión estrecha.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:00:13</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Anticipa las necesidades a requerir en la ejecución de las actividades a realizar en su puesto de trabajo.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:00:16</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Ha dado cumplimiento a lo planificado de acuerdo a lo establecido en el Plan Operativo Anual.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:00:23</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Contribuye al logro de las metas y objetivos, considerando qué elementos deben ajustarse o cambiarse para alcanzarlos.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:00:25</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Los resultados  obtenidos han sido en el tiempo establecido.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:00:28</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Asume y transmite el conjunto de valores de la fundación.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:00:34</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Su comportamiento y actitudes demuestran sentido de pertenencia a la entidad.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:00:43</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Colabora en las actividades que la fundación realiza para la auto sostenibilidad.</td>
+                        <td>3</td>
+                        <td>2023-11-28 22:00:46</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Aplica  las  destrezas, técnicas  y  los  conocimientos necesarios para el cumplimiento de las actividades y funciones de su trabajo.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:00:52</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Conoce las herramientas necesarias para desarrollar sus labores.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:00:55</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Autoformación: se actualiza en los conocimientos, técnicas y nuevas herramientas tecnológicas  ante las nuevas tendencias en los temas relacionados  que pueden mejorar la capacidad para desempeñar el puesto.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:00:58</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Va más allá de los requisitos exigidos para obtener un producto o resultado mejor; evalúa la exactitud, seriedad, claridad y utilidad en las tareas encomendadas.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:01:09</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Busca formas para mejorar y promover la calidad de su trabajo.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:01:13</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Permanentemente hace propuestas de mejora a las otras áreas de la fundación.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:01:17</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Propone y encuentra formas nuevas y eficaces de hacer las cosas.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:01:22</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Ofrece alternativas innovadoras para solucionar problemas.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:01:25</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Resuelve los imprevistos de su trabajo y mejora los procedimientos.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:01:29</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Es sistemático en la ejecución de tareas y cuidadoso al trabajar con documentos computacionales o físicos correspondiente al puesto que se desempeña.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:01:33</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Tiene capacidad  de organización de las tareas para conseguir resultados de calidad, en los plazos requeridos.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:01:37</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Implementa sus propios métodos de  trabajo  y  organización  del tiempo de acuerdo a las características de las tareas que debe cumplir.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:01:40</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Conoce y pone en práctica el ideal de trabajo salesiano contribuyendo a un equipo de trabajo caracterizado por el testimonio de fe y la alegría que viene del amor de Dios.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:02:02</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Participa activamente en las reuniones de comunidad de su área.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:02:02</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Ha desarrollado actividades de contacto directo con los jóvenes.</td>
+                        <td>3</td>
+                        <td>2023-11-28 22:02:08</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a)Establece y mantiene comunicación con su jefe inmediato y compañeros, sobre situaciones importantes que les afectan en el desempeño del trabajo.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:02:16</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Muestra flexibilidad para aceptar nuevas ideas.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:02:18</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Establece y promueve relaciones interpersonales positivas con sus compañeros, propiciando un ambiente laboral de cordialidad y respeto.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:02:23</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Establece   relaciones   de   cooperación   y preocupación no  sólo  por  las  propias  responsabilidades  sino  también  por  las  del resto del equipo de trabajo. </td>
+                        <td>5</td>
+                        <td>2023-11-28 22:02:39</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Comparte conocimientos y habilidades, para alcanzar metas comunes o con una meta que no este relacionada con el interés propio.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:02:42</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Capacidad de trabajar con otros compañeros de otras áreas para conseguir metas comunes.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:02:47</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Da cumplimiento a  las obligaciones de su labor, reglas, normas y órdenes emanadas por la fundación o jefe; Y realiza la administración cuidadosa de los recursos entregados para la ejecución de su trabajo y da respuesta eficaz a la confianza depositada.</td>
+                        <td>4</td>
+                        <td>2023-11-28 22:02:56</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Es puntual en su horario laboral presencial y/o virtual, asi como en la asistencia de reuniones de trabajo.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:02:57</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Vela por la confidencialidad de datos, información sensible  de la fundación de los cuales tuvieren conocimiento por razón de su cargo.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:03:00</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>a) Actitud espontánea de prestar colaboración en tareas laborales fuera de su responsabilidad.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:03:19</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>b) Apoya de forma voluntaria en las actividades que la fundación realiza fuera de su horario de trabajo.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:03:29</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Colega de trabajo</td>               
+                        <td>c) Proyecta actitud de colaboración  hacia los compañeros  y les ayuda cuando le es posible.</td>
+                        <td>5</td>
+                        <td>2023-11-28 22:03:31</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Utiliza su  planeación como una herramienta permanente de retroalimentación y para generar informes a su jefe.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:27</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Usa efectivamente el tiempo y  distribuye las labores adecuadamente sin necesidad de supervisión estrecha.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:29</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Anticipa las necesidades a requerir en la ejecución de las actividades a realizar en su puesto de trabajo.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:29</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Ha dado cumplimiento a lo planificado de acuerdo a lo establecido en el Plan Operativo Anual.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:31</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Contribuye al logro de las metas y objetivos, considerando qué elementos deben ajustarse o cambiarse para alcanzarlos.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:32</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Los resultados  obtenidos han sido en el tiempo establecido.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:33</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Asume y transmite el conjunto de valores de la fundación.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:35</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Su comportamiento y actitudes demuestran sentido de pertenencia a la entidad.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:35</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Colabora en las actividades que la fundación realiza para la auto sostenibilidad.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:36</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Aplica  las  destrezas, técnicas  y  los  conocimientos necesarios para el cumplimiento de las actividades y funciones de su trabajo.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:38</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Conoce las herramientas necesarias para desarrollar sus labores.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:39</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Autoformación: se actualiza en los conocimientos, técnicas y nuevas herramientas tecnológicas  ante las nuevas tendencias en los temas relacionados  que pueden mejorar la capacidad para desempeñar el puesto.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:39</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Va más allá de los requisitos exigidos para obtener un producto o resultado mejor; evalúa la exactitud, seriedad, claridad y utilidad en las tareas encomendadas.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:42</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Busca formas para mejorar y promover la calidad de su trabajo.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:43</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Permanentemente hace propuestas de mejora a las otras áreas de la fundación.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:44</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Propone y encuentra formas nuevas y eficaces de hacer las cosas.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:46</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Ofrece alternativas innovadoras para solucionar problemas.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:47</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Resuelve los imprevistos de su trabajo y mejora los procedimientos.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:48</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Es sistemático en la ejecución de tareas y cuidadoso al trabajar con documentos computacionales o físicos correspondiente al puesto que se desempeña.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:49</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Tiene capacidad  de organización de las tareas para conseguir resultados de calidad, en los plazos requeridos.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:50</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Implementa sus propios métodos de  trabajo  y  organización  del tiempo de acuerdo a las características de las tareas que debe cumplir.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:51</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Conoce y pone en práctica el ideal de trabajo salesiano contribuyendo a un equipo de trabajo caracterizado por el testimonio de fe y la alegría que viene del amor de Dios.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:52</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Participa activamente en las reuniones de comunidad de su área.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:54</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Ha desarrollado actividades de contacto directo con los jóvenes.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:55</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a)Establece y mantiene comunicación con su jefe inmediato y compañeros, sobre situaciones importantes que les afectan en el desempeño del trabajo.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:57</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Muestra flexibilidad para aceptar nuevas ideas.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:58</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Establece y promueve relaciones interpersonales positivas con sus compañeros, propiciando un ambiente laboral de cordialidad y respeto.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:29:59</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Establece   relaciones   de   cooperación   y preocupación no  sólo  por  las  propias  responsabilidades  sino  también  por  las  del resto del equipo de trabajo. </td>
+                        <td>4</td>
+                        <td>2023-12-05 18:30:02</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Comparte conocimientos y habilidades, para alcanzar metas comunes o con una meta que no este relacionada con el interés propio.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:30:03</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Capacidad de trabajar con otros compañeros de otras áreas para conseguir metas comunes.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:30:04</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Da cumplimiento a  las obligaciones de su labor, reglas, normas y órdenes emanadas por la fundación o jefe; Y realiza la administración cuidadosa de los recursos entregados para la ejecución de su trabajo y da respuesta eficaz a la confianza depositada.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:30:07</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Es puntual en su horario laboral presencial y/o virtual, asi como en la asistencia de reuniones de trabajo.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:30:08</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Vela por la confidencialidad de datos, información sensible  de la fundación de los cuales tuvieren conocimiento por razón de su cargo.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:30:09</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>a) Actitud espontánea de prestar colaboración en tareas laborales fuera de su responsabilidad.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:30:12</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>b) Apoya de forma voluntaria en las actividades que la fundación realiza fuera de su horario de trabajo.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:30:12</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr><tr>
+                        <td>Evaluación - Cliente interno</td>               
+                        <td>c) Proyecta actitud de colaboración  hacia los compañeros  y les ayuda cuando le es posible.</td>
+                        <td>4</td>
+                        <td>2023-12-05 18:30:13</td>
+                        <td>Gerardo Jose, Martir Martir </td>
+                        
+                    </tr>    </tbody>
+</table>

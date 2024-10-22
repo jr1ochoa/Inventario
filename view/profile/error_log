@@ -1,0 +1,56 @@
+[29-Jun-2022 10:15:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/profile/profile.education.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/profile/profile.education.php on line 4
+[29-Jun-2022 10:15:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/profile/profile.education.php:4
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/profile/profile.education.php on line 4
+[29-Jun-2022 10:23:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/profile/profile.education.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/profile/profile.education.php on line 5
+[29-Jun-2022 10:23:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/profile/profile.education.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/profile/profile.education.php on line 5
+[29-Jun-2022 10:23:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/profile/profile.education.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/profile/profile.education.php on line 5
+[30-Jun-2022 11:08:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/profile/profile.religious.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/profile/profile.religious.php on line 9
+[30-Jun-2022 11:09:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/profile/profile.religious.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/profile/profile.religious.php on line 9
+[17-Jan-2023 16:36:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/siif/public_html/view/profile/profile.form.php on line 49
+[17-Jan-2023 16:37:06 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/siif/public_html/view/profile/profile.form.php on line 49
+[17-Jan-2023 17:04:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/siif/public_html/view/profile/profile.education.php on line 144
+[03-May-2023 16:55:40 UTC] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '{' or '$' in /home/siif/public_html/view/profile/profile.assignations.php on line 30
+[04-Mar-2024 18:31:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[04-Mar-2024 18:32:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[04-Mar-2024 20:47:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[05-Mar-2024 15:25:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[06-Mar-2024 22:14:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[07-Mar-2024 22:20:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[08-Mar-2024 20:49:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[11-Mar-2024 19:43:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[13-Mar-2024 20:21:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[16-Mar-2024 16:51:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[16-Mar-2024 17:04:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[16-Mar-2024 17:04:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[16-Mar-2024 17:05:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[16-Mar-2024 17:06:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[16-Mar-2024 17:07:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[16-Mar-2024 17:07:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[16-Mar-2024 17:09:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[16-Mar-2024 17:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/fusalmosiif/public_html/view/profile/profile.form.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/fusalmosiif/public_html/view/profile/profile.form.php on line 29
+[20-Mar-2024 02:35:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[20-Mar-2024 02:36:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[02-Apr-2024 17:13:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2

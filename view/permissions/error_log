@@ -1,0 +1,169 @@
+[13-Jul-2022 15:49:54 Etc/GMT+6] PHP Warning:  include(view/permissions/permissions.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:49:54 Etc/GMT+6] PHP Warning:  include(view/permissions/permissions.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:49:54 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permissions.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:50:22 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:50:22 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:50:22 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:54:45 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:54:45 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:54:45 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:54:49 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:54:49 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:54:49 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:54:55 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:54:55 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 15:54:55 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:00:52 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:00:52 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:00:52 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:01:07 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:01:07 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:01:07 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:02:25 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:02:25 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:02:25 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:05:26 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:05:26 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:05:26 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:08:00 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:08:00 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:08:00 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:08:51 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:08:51 Etc/GMT+6] PHP Warning:  include(view/permissions/permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:08:51 Etc/GMT+6] PHP Warning:  include(): Failed opening 'view/permissions/permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:10:33 Etc/GMT+6] PHP Warning:  include(../permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:10:33 Etc/GMT+6] PHP Warning:  include(../permission.errands.php): failed to open stream: No such file or directory in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:10:33 Etc/GMT+6] PHP Warning:  include(): Failed opening '../permission.errands.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/siif/public_html/view/permissions/permissions.form.php on line 117
+[13-Jul-2022 16:11:05 Etc/GMT+6] PHP Fatal error:  Cannot redeclare registerLog() (previously declared in /home1/siif/public_html/config/net.php:24) in /home1/siif/public_html/config/net.php on line 24
+[14-Jul-2022 11:25:42 Etc/GMT+6] PHP Fatal error:  Uncaught Error: Call to a member function modify() on int in /home1/siif/public_html/view/permissions/permission.errands.php:128
+Stack trace:
+#0 /home1/siif/public_html/view/permissions/permissions.form.php(118): include()
+#1 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 128
+[14-Jul-2022 11:26:04 Etc/GMT+6] PHP Fatal error:  Uncaught Error: Call to a member function modify() on int in /home1/siif/public_html/view/permissions/permission.errands.php:128
+Stack trace:
+#0 /home1/siif/public_html/view/permissions/permissions.form.php(118): include()
+#1 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 128
+[14-Jul-2022 11:26:27 Etc/GMT+6] PHP Fatal error:  Uncaught Error: Call to a member function modify() on int in /home1/siif/public_html/view/permissions/permission.errands.php:128
+Stack trace:
+#0 /home1/siif/public_html/view/permissions/permissions.form.php(118): include()
+#1 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 128
+[14-Jul-2022 15:07:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:07:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:08:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:08:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:09:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:48:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:49:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:50:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:52:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:52:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:55:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:55:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:56:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:57:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:58:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:59:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:59:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:59:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 15:59:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 16:01:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 16:07:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 16:07:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 16:10:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 16:11:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 16:13:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 16:14:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/siif/public_html/view/permissions/permission.errands.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 5
+[14-Jul-2022 16:34:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/siif/public_html/view/permissions/permission.errands.php on line 73
+[14-Jul-2022 16:34:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home1/siif/public_html/view/permissions/permission.errands.php on line 73
+[15-Jul-2022 10:39:47 Etc/GMT+6] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home1/siif/public_html/view/permissions/permission.errands.php:76
+Stack trace:
+#0 {main}
+  thrown in /home1/siif/public_html/view/permissions/permission.errands.php on line 76
+[29-May-2023 19:53:06 UTC] PHP Parse error:  Invalid numeric literal in /home/siif/public_html/view/permissions/permission.report.php on line 14
+[02-Mar-2024 16:06:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[02-Mar-2024 16:07:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[04-Mar-2024 21:21:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[04-Mar-2024 21:21:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[04-Mar-2024 21:22:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
+[04-Mar-2024 21:22:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fusalmosiif/public_html/config/net.php on line 2
