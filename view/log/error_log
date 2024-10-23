@@ -1,0 +1,15 @@
+[09-Apr-2023 18:23:35 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/log/log.php on line 6
+[09-Apr-2023 18:23:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/log/log.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/log/log.php on line 6
+[05-May-2023 15:31:38 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/log/log.list.php on line 5
+[05-May-2023 15:31:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/log/log.list.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/log/log.list.php on line 5
+[05-May-2023 17:03:31 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/log/log.list.php on line 6
+[05-May-2023 17:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/log/log.list.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/log/log.list.php on line 6
