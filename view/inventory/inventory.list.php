@@ -80,11 +80,11 @@
 
             FROM `inventory_active` as ia 
 
-            INNER JOIN catalogue as ct ON ia.type = ct.id AND ct.type = 'Tipo'
+            LEFT JOIN catalogue as ct ON ia.type = ct.id AND ct.type = 'Tipo'
 
-            INNER JOIN catalogue as cb ON ia.brand = cb.id AND cb.type = 'Marca'
+            LEFT JOIN catalogue as cb ON ia.brand = cb.id AND cb.type = 'Marca'
 
-            INNER JOIN catalogue as cs ON ia.status = cs.id AND cs.type = 'Estado'";
+            LEFT JOIN catalogue as cs ON ia.status = cs.id AND cs.type = 'Estado'";
 
     $Inventory = $net_rrhh->prepare($query); 
 

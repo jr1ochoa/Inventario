@@ -1,5 +1,6 @@
 <!-- HISTORIAL DE ASIGNACIONES -->
-<?php include("../../config/net.php"); //Conexión con la BDD
+
+<?php include("../../config/net.php");
 
     $id = $_REQUEST['id'];
     $action = $_REQUEST['action'];
@@ -14,7 +15,6 @@
     $assignationP = "";
     $returnP = "";
     $stateP = "";
-
 
 
     if(isset($_REQUEST['iu'])){
@@ -57,7 +57,6 @@
 
 <div class="p-3">
 
-    
     <div id="tabAd">
     
         <!-- Pestañas de navegación --> 
@@ -97,7 +96,11 @@
                     <tbody>
                         <?php
                             //Imprimir listado de asignaciones
-                            $query = "SELECT * FROM inventory_assignation WHERE active = $id";
+                            $query = "SELECT a.id, CONCAT(e.name1, ' ', e.lastname1) as 'Empleado', w.area, a.date_assignation, a.date_return, a.state, m.idMemo FROM inventory_assignation as a 
+                                        LEFT JOIN employee as e ON e.id = a.employee
+                                        LEFT JOIN workarea as w ON w.id = a.area
+                                        LEFT JOIN inventory_memos_assignation as m ON m.idAssignation = a.id
+                                        WHERE a.active = $id";
                             $assignations = $net_rrhh->prepare($query);
                             $assignations->execute();
                             $i = 0;
@@ -106,29 +109,11 @@
                             if($assignations->rowCount() > 0) {
                                 while($data = $assignations->fetch()){
     
-                                    //Cargar datos del empleado
-                                    $query = "SELECT * FROM employee WHERE id = $data[1]";
-                                    $employee = $net_rrhh->prepare($query);
-                                    $employee->execute();
-                                    $dataE = $employee->fetch();
-    
-                                    //Cargar datos del área
-                                    $query = "SELECT * FROM workarea WHERE id = $data[2]";
-                                    $area = $net_rrhh->prepare($query);
-                                    $area->execute();
-                                    $dataA = $area->fetch();
-    
-                                    //Cargar memo
-                                    $query = "SELECT * FROM inventory_memos_assignation WHERE idAssignation = $data[0]";
-                                    $memo = $net_rrhh->prepare($query);
-                                    $memo->execute();
-                                    $dataM = $memo->fetch();
-    
                                     $i++;
                                     echo "<tr>
                                             <td>$i</td>
-                                            <td>".($dataE[1]." ".$dataE[4])."</td>
-                                            <td>".($dataA[1])."</td>
+                                            <td>$data[1]</td>
+                                            <td>$data[2]</td>
                                             <td>$data[3]</td>
                                             <td>";
     
@@ -139,9 +124,15 @@
                                                 echo $data[4];
     
                                     echo "</td>
-                                            <td>$data[5]</td>
-                                            <td><a href='/view/inventory/memorandums/memorandum_$dataM[1].pdf' class='dropdown-item' download>Descargar</a></td>
-                                            <td>
+                                            <td>$data[5]</td>";
+
+                                            if ($data[6] == "") {
+                                                echo "<td>(Sin memorandúm)</td>";
+                                            }else{
+                                                echo "<td><a href='/view/inventory/memorandums/memorandum_$data[6].pdf' class='dropdown-item' download>Descargar</a></td>";
+                                            }
+
+                                        echo "<td>
                                                 <div class='dropdown'>
                                                     <a class='btn btn-primary btn-sm dropdown-toggle' href='#' role='button' data-bs-toggle='dropdown' aria-expanded='false'>
                                                         Acciones
@@ -485,7 +476,7 @@
             <tbody>
     
                 <?php
-    
+    /*
                     $query = "SELECT * FROM inventory_files where assignation = $idDoc";
     
                     $docs = $net_rrhh->prepare($query);
@@ -539,7 +530,7 @@
                             </tr>";
     
                     }
-    
+    */
                 ?>
     
             </tbody>
@@ -550,10 +541,7 @@
 </div>
 
 <script>
-
     $(document).ready(function(){
-
-
 
         //Habilitar vista de documentos
 
@@ -628,7 +616,6 @@
             $("#tabDocs").css("display","none");
 
         });
-
 
 
         //Dar por finalizado la etapa de prestamo de activo

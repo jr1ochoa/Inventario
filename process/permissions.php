@@ -8,17 +8,14 @@ $base_path = $_SERVER['DOCUMENT_ROOT'];
 
 // Construye la ruta completa a PHPMailer
 
-require '/home/fusalmosiif/public_html/modules/PHPMailer/src/PHPMailer.php';
+require '/home/siiffusalmo/public_html/modules/PHPMailer/src/PHPMailer.php';
 
-require '/home/fusalmosiif/public_html/modules/PHPMailer/src/Exception.php';
+require '/home/siiffusalmo/public_html/modules/PHPMailer/src/Exception.php';
 
-require '/home/fusalmosiif/public_html/modules/PHPMailer/src/SMTP.php';
-
+require '/home/siiffusalmo/public_html/modules/PHPMailer/src/SMTP.php';
 
 
 if($action == "Add Permission"){
-
-
 
     $status = "Pendiente";
 
@@ -162,6 +159,7 @@ if($action == "Add Permission"){
         $mail->addAddress('desarrollo@fusalmo.org');
 
         $mail->addAddress('recursoshumanos@fusalmo.org');
+       
 
         $mail->Subject = $subject;
 
@@ -571,6 +569,7 @@ else if($action == "Update Permission"){
     $mail->addAddress('desarrollo@fusalmo.org');
 
     $mail->addAddress('recursoshumanos@fusalmo.org');
+  
 
     $mail->Subject = $subject;
 

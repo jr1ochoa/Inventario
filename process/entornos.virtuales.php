@@ -70,7 +70,7 @@ if($action == "addSolicitudArte")
                         $emailBoss = $dataE[2];
                         $banderaErrorCorreo = 0;
                     }else{
-                        $emailBoss = "manuel.gamez@fusalmo.org";
+                        $emailBoss = "desarrollo@fusalmo.org";
                         $banderaErrorCorreo = 1;
                     }
                 
@@ -96,7 +96,6 @@ if($action == "addSolicitudArte")
                         $mail->setFrom('desarrollo@fusalmo.org', 'Sistema SIIF');
                         $mail->addAddress($to);
                         $mail->addAddress('desarrollo@fusalmo.org');
-                        $mail->addAddress('manuel.gamez@fusalmo.org');
                         $mail->addAddress('ingrid.hernandez@fusalmo.org');
                         $mail->Subject = $subject;
                         $mail->Body = "
@@ -309,7 +308,7 @@ else if($action == "addEntornosVirtualesEncabezado")//::::::::::::::::::::::::::
           $emailBoss = $dataE[2];
           $banderaErrorCorreo = 0;
       }else{
-          $emailBoss = "manuel.gamez@fusalmo.org";
+          $emailBoss = "desarrollo@fusalmo.org";
           $banderaErrorCorreo = 1;
       }
   
@@ -335,7 +334,6 @@ else if($action == "addEntornosVirtualesEncabezado")//::::::::::::::::::::::::::
           $mail->setFrom('desarrollo@fusalmo.org', 'Sistema SIIF');
           $mail->addAddress($to);
           $mail->addAddress('desarrollo@fusalmo.org');
-          $mail->addAddress('manuel.gamez@fusalmo.org');
           $mail->addAddress('ingrid.hernandez@fusalmo.org');
           $mail->addAddress('david.morales@fusalmo.org');
           $mail->Subject = $subject;

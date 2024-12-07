@@ -5,7 +5,7 @@
 //date_default_timezone_set('Etc/GMT+6');
 
 //$root = $_SERVER['DOCUMENT_ROOT']."/";
-echo "Hola Mundo";
+//echo "Hola Mundo";
 
 $db = "fusalmo_v1";
 $dbUser = "fusalmo_wp";
@@ -19,7 +19,7 @@ try
 
     // Verifica si la conexión se realizó correctamente
     if ($net_fusalmos) {
-       echo "Conexión exitosa a la base de datos.";
+      // echo "Conexión exitosa a la base de datos.";
     }
 } 
 catch (PDOException $e) 

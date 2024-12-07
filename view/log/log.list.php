@@ -30,8 +30,8 @@
                     <td>$data[0]</td>
                     <td>$data[1]</td>
                     <td>$data[3]</td>
-                    <td>".utf8_encode($data[4])."</td>
-                    <td>".utf8_encode($data[7])."</td>
+                    <td>".($data[4])."</td>
+                    <td>".($data[7])."</td>
                     <td>$data[6]</td>
                     </tr>";
         }

@@ -130,11 +130,11 @@
 
                         if($data[0] == $areaP)
 
-                            echo "<option value='$data[0]' selected='selected'>".utf8_encode($data[1])."</option>";
+                            echo "<option value='$data[0]' selected='selected'>".($data[1])."</option>";
 
                         else
 
-                            echo "<option value='$data[0]'>".utf8_encode($data[1])."</option>";
+                            echo "<option value='$data[0]'>".($data[1])."</option>";
 
                     }
 

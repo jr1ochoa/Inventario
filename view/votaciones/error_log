@@ -1,5 +1,0 @@
-[05-Mar-2024 17:08:14 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/desarrolloroot/public_html/view/votaciones/votaciones.formuario.php on line 7
-[05-Mar-2024 17:08:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/desarrolloroot/public_html/view/votaciones/votaciones.formuario.php:7
-Stack trace:
-#0 {main}
-  thrown in /home/desarrolloroot/public_html/view/votaciones/votaciones.formuario.php on line 7

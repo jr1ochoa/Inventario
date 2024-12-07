@@ -1,18 +1,4 @@
-<?php include("../config/net.php");
 
-//SISTEMA SIIF TALENTO HUMANO PRINCIPAL
-
-    $query = "SELECT * FROM employee_transcript_personal WHERE id = :n1";
-
-    $employe = $net_rrhh->prepare($query);
-
-    $employe->bindParam(':n1', $_SESSION['iu']);
-
-    $employe->execute();
-
-    
-
-?>
 
 <script src="https://cdn.jsdelivr.net/npm/@floating-ui/core@1.5.3"></script>
 

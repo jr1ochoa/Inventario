@@ -70,7 +70,7 @@
 
                     <li class="nav-item" role="penalizacion">
 
-                        <a class="nav-link" id="penalizacion-tab" data-bs-toggle="tab" data-bs-target="#penalizacion" type="button" role="tab" aria-controls="profile" aria-selected="false">Realizar Penalizacion </a>
+                        
 
                     </li>
 

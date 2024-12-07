@@ -1,12 +1,9 @@
 <?php
 include('../../../config/net.php'); // Incluye tu conexión PDO aquí
 include('../../../modules/FPDF/fpdf.php');
-
-require '/home/fusalmosiif/public_html/modules/PHPMailer/src/PHPMailer.php';
-require '/home/fusalmosiif/public_html/modules/PHPMailer/src/Exception.php';
-require '/home/fusalmosiif/public_html/modules/PHPMailer/src/SMTP.php';
-
-
+require '/home/siiffusalmo/public_html/modules/PHPMailer/src/PHPMailer.php';
+require '/home/siiffusalmo/public_html/modules/PHPMailer/src/Exception.php';
+require '/home/siiffusalmo/public_html/modules/PHPMailer/src/SMTP.php';
 session_start();
 // Función para formatear la fecha en letras
 function formatearFechaEnLetras($fecha) {
@@ -248,16 +245,7 @@ function generarPDF($user_name, $puesto, $asunto, $descripcion, $marca, $tipo, $
         $pdf->Image($imgPath, 120, 35, 30, 10); // Ajusta la posición y tamaño según tus necesidades
     }
 
-    // Título "De:" y el nombre de Andrés
-    $pdf->SetFont('Arial', 'B', 9);
-    $pdf->Cell(25, 10, 'DE:', 0, 0, 'L'); // Ajusta el margen izquierdo
-    $pdf->SetFont('Arial', 'B', 9);
-    $pdf->MultiCell(0, 6, utf8_decode('Andrés René Velásquez Roríguez'), 0, 'L'); // Nombre de Andrés
-    $pdf->Cell(25, 5, '', 0, 0, 'L');
-    $pdf->SetFont('Arial', '', 9); // Esto crea el margen a la izquierda
-    $pdf->MultiCell(0, 5, strtoupper('TECNICO DE SOPORTE IT JR.'), 0, 'L'); // Puesto de Andrés
-
-    $pdf->Image('../img_firmas/FIRMA_ANDRES.png', 100, 50, 50, 20); //Firma Andres
+   
 
     // Título "VoBo:" y el nombre de Roberto
     $pdf->SetFont('Arial', 'B', 9);
@@ -266,7 +254,7 @@ function generarPDF($user_name, $puesto, $asunto, $descripcion, $marca, $tipo, $
     $pdf->MultiCell(0, 6, utf8_decode('José Roberto Ochoa Medrano'), 0, 'L');
     $pdf->SetFont('Arial', '', 9); // Nombre de Roberto
     $pdf->Cell(25, 5, '', 0, 0, 'L'); // Crea el margen izquierdo para el puesto
-    $pdf->MultiCell(0, 5, strtoupper('COORDINADOR DE INFRAESTRUCTURA Y DESARROLLO DE SOFTWARE'), 0, 'L'); // Puesto de Roberto
+    $pdf->MultiCell(0, 5, strtoupper('Programador1'), 0, 'L'); // Puesto de Roberto
 
     $pdf->Image('../img_firmas/FIRMA_ROBERTO.png', 150, 65, 50, 10);//Firma Roberto
 

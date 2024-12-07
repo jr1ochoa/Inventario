@@ -94,7 +94,7 @@
 
                     if($_REQUEST['list'] == "all") 
 
-                        echo utf8_encode("<td>$data[1]</td>");
+                        echo ("<td>$data[1]</td>");
 
 
 

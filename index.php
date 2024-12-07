@@ -12,7 +12,7 @@ header('Content-Type: text/html; charset=UTF-8');
     <style>
         h1, h2, h3, h4, h5, h6{
             font-family: "Barlow", sans-serif;
-            color: #1F376F;
+            color: #1F376F !important;
         }
         body{
             font-family: "Poppins", sans-serif;

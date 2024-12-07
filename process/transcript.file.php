@@ -161,122 +161,74 @@ else if ($action == "Delete File")
 
 }
 
+
+//aqui agrego unos cambios para convertir cualquier tipo de imagen en WEBP
 else if($action == "Change Picture")
-
 {
-
     ini_set('upload_max_filesize', '10M');
-
     ini_set('post_max_size', '10M');
 
-
-
     $tamano = $_FILES["NewPicture"]['size'];
-
     $tipo = $_FILES["NewPicture"]['type'];
-
     $archivo = $_FILES["NewPicture"]['name'];
-
-    $prefijo = substr(md5(uniqid(rand())),0,4);               
-
-
+    $prefijo = substr(md5(uniqid(rand())), 0, 4);
 
     if ($archivo != "") 
-
     {
 
-        $namefile = $prefijo."_".$archivo;
+        // Crear el nombre del archivo con extensión .webp
+        $namefile = $prefijo . "_" . pathinfo($archivo, PATHINFO_FILENAME) . ".webp";
+        $destino = $_SERVER['DOCUMENT_ROOT'] . "/process/pictures/$namefile";
 
-        $destino =  $_SERVER['DOCUMENT_ROOT']."/process/pictures/$namefile";
+        // Convertir la imagen a webp y guardarla
+        $tmpFile = $_FILES['NewPicture']['tmp_name'];
+        $exito = false;
 
-        if (copy($_FILES['NewPicture']['tmp_name'], $destino)) 
+        // Verificar el tipo de imagen y convertir a webp
+        if ($tipo == "image/jpeg" || $tipo == "image/jpg") {
+            $imagen = imagecreatefromjpeg($tmpFile);
+            $exito = imagewebp($imagen, $destino);
+            imagedestroy($imagen);
+        } elseif ($tipo == "image/png") {
+            $imagen = imagecreatefrompng($tmpFile);
+            imagepalettetotruecolor($imagen);
+            $exito = imagewebp($imagen, $destino);
+            imagedestroy($imagen);
+        } elseif ($tipo == "image/gif") {
+            $imagen = imagecreatefromgif($tmpFile);
+            $exito = imagewebp($imagen, $destino);
+            imagedestroy($imagen);
+
+        } else {
+            echo "Formato de imagen no soportado. Usa JPEG, PNG, o GIF.";
+        }
+
+        // Verificar si la conversión fue exitosa
+        if ($exito) 
 
         {   
 
-            $query = "DELETE FROM employee_picture
-
-                      WHERE idemployee = " . $_POST['iu'];
-
-            $delete =  $net_rrhh->prepare($query);
-
+            // Procesar el cambio en la base de datos como en el código original
+            $query = "DELETE FROM employee_picture WHERE idemployee = " . $_POST['iu'];
+            $delete = $net_rrhh->prepare($query);
             $delete->execute();
 
-
-
-            $query = "INSERT INTO employee_picture 
-
-                      VALUES(NULL, :n1, :n2)";
-
-
-
+            $query = "INSERT INTO employee_picture VALUES(NULL, :n1, :n2)";
             $Insert = $net_rrhh->prepare($query);
-
             $Insert->bindParam(':n1', $_POST['iu']);
-
-            $Insert->bindParam(':n2', $namefile);  
-
+            $Insert->bindParam(':n2', $namefile);
             $Insert->execute();
 
-                        
-
-            /*Guardar Registro de Actualización
-
-            $query = "DELETE FROM employee_updates WHERE part = 'Picture' AND idemployee = ".$_POST['iu'];
-
-            $Delete = $net_rrhh->prepare($query);
-
-            $Delete->execute();
-
-
-
-            $query = "INSERT INTO employee_updates VALUES(NUll, :n1, 'Picture', CURRENT_TIMESTAMP)";
-
-            $Insert = $net_rrhh->prepare($query);
-
-            $Insert->bindParam(':n1', $_POST['iu']);
-
-            $Insert->execute();     */         
-
-
-
-            redirection("../?view=profile&iu=".$_POST['iu']);
-
-        } 
-
-        else{
-
-            if($_SESSION['type'] == "Administrador"){
-
-                $error = array();
-
-                $error = error_get_last();
-
-
-
-                foreach($error as $details)
-
-                    $msg .= "$details -";
-
-                
-
-                echo "Error al subir el archivo: $msg";
-
-            }else{
-
-                echo "<script>alert('¡Tamaño de imagen muy grande! La imagen no debe exeder los 8MB')</script>";
-
-            }
-
-        }                                               
-
+            // Redirigir al perfil
+            redirection("../?view=profile&iu=" . $_POST['iu']);
+        } else {
+            echo "Error al convertir la imagen a formato .webp";
+        }
     } 
-
-    else         
-
+    else {
         echo "Error al subir archivo 2";
-
+    }
 }
-
 
 
 

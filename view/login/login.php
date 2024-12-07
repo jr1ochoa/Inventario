@@ -95,7 +95,7 @@
           function(response){
               if(response)
               {
-                  window.location.href = '?view=profile';
+                  window.location.href = '/?view=main';
                 /*  document.getElementById("botonCargando22").style.display="none";
               $.toast({
                   heading: 'Finalizado',
@@ -115,7 +115,7 @@
                   document.getElementById("botonCargandoPersonal").style.display="none";
                   $.toast({
                       heading: 'ADVERTENCIA',
-                      text: 'EL USUARIO O CONTRASEÑA ES INCORRECTA 😬',
+                      text: 'EL USUARIO O CONTRASEÑA ES INCORRECTA ',
                       showHideTransition: 'slide',
                       icon: 'warning',
                       textColor: 'white',
@@ -150,11 +150,11 @@ $("#enviarCredenciales").click(function() {
             function(response){
                 if(response)
                 {
-                    window.location.href = '?view=profile';
+                    window.location.href = '/?view=main';
                   /*  document.getElementById("botonCargando22").style.display="none";
                 $.toast({
                     heading: 'Finalizado',
-                    text: 'Vinculacion Agregada 😁',
+                    text: 'Vinculacion Agregada ',
                     showHideTransition: 'slide',
                     icon: 'success',
                     hideAfter: 5000, 

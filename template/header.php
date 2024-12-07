@@ -30,25 +30,9 @@
                                     <ul>
                                         <li><a href="?view=permissions">Solicitud de Permisos</a></li>
                                         <li><a href="?view=personnelactions">Acciones de Personal</a></li>
-                                        <li><a href="?view=permissions">📢Crear Penalización</a></li>
                                     </ul>
                                 </li>                                
-                                <li>
-                                    <a href="">Evaluaciones 360°</a>
-                                    <ul>
-                                        <li><a href="?view=evaluations">Ingresar a Evaluaciones</a></li>
-                                        <?php
-                                        
-                                        if($_SESSION['type'] == "Administrador" || $_SESSION['type'] == "RRHH")
-                                        {
-                                             //codigo de html abajo
-                                             echo '<li><a href="?view=evaluationsHistory">Historial de Evaluacion</a></li>';
-                                          
-                                        }
-                                        ?>
-                                        
-                                    </ul>
-                                </li>
+
                             </ul>                                               
                         </li>                           
                         <?php

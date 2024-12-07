@@ -1,2 +1,0 @@
-# MapeoASocios
-Proyecto de mapeoAsocios

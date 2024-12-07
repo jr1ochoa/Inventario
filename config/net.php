@@ -3,6 +3,9 @@
 session_start();
 
 date_default_timezone_set('Etc/GMT+6');
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 
 $root = $_SERVER['DOCUMENT_ROOT']."/";
 
@@ -10,7 +13,7 @@ try
 
 {
 
-    $net_rrhh = new PDO('mysql:host=localhost;dbname=fusalmosiif_user', 'root', '');  
+    $net_rrhh = new PDO('mysql:host=localhost;dbname=siiffusalmo_siifdb', 'siiffusalmo_siifuser', 'PB&dXH-]7mcS');  
 
     function redirection($Redirecion)
 
@@ -132,6 +135,21 @@ function registerLog($con, $module, $process, $action, $comment)
 
     $Log->execute();
 
+}
+
+function verificarerrores($query){
+    $mensaje = "";
+
+    $errorInfo = $query->errorInfo();
+    if ($errorInfo[0] !== '00000') {
+        $mensaje .= "Error SQLSTATE: " . $errorInfo[0] . "\n";
+        $mensaje .= "Código de Error del Controlador: " . $errorInfo[1] . "\n";
+        $mensaje .= "Mensaje de Error: " . $errorInfo[2] . "\n";
+    } else {
+        $mensaje = "ok";
+    }
+    
+    return $mensaje;
 }
 
 error_reporting(0);

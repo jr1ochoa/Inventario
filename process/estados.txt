@@ -1,0 +1,4 @@
+1= nuevas solicitudes
+2= Archivados o cancelados
+3= solicitudes aprobadas (no finalizadas)
+4

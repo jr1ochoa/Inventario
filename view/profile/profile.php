@@ -191,109 +191,7 @@ $dataUser = $user->fetch();
 
 
 
-        <div id="sidebar">
-
-            <?php
-
-            //Cargar fotografía del empleado
-
-            $query = "SELECT picture FROM employee_picture WHERE idemployee = " . $iu;
-
-            $picture = $net_rrhh->prepare($query);
-
-            $picture->execute();
-
-
-
-            if ($picture->rowCount() > 0) {
-
-                $dataI = $picture->fetch();
-
-                $img = $dataI[0];
-
-            } else
-
-                $img = "profile_14082740.png";
-
-            ?>
-
-            <section class="features">
-
-                <img class="mx-auto d-block" src="process/pictures/<?=$img?>" style='width: 60%' />
-
-            </section>
-
-
-
-            <!-- Mostrar botón de actualizar contraseña si es el usuario del perfil -->
-
-            <?php
-
-            if ($iu == $_SESSION['iu']) {
-
-            ?>
-
-                <section class="features">
-
-                    <table class='table'>
-
-                        <tr>
-
-                            <td>Nueva Contraseña:</td>
-
-                            <td>
-
-                                <a data-bs-toggle='modal' data-bs-target='#FormModalProfile' onclick="update(<?= $_SESSION['iu'] ?>)" style='color: #0B79DE; cursor: pointer;'>
-
-                                    Actualizar
-
-                                </a>
-
-                            </td>
-
-                        </tr>
-
-                    </table>
-
-                </section>
-
-            <?php } ?>
-
-
-
-            <!-- Habilitar actualizar fotografía para RRHH -->
-
-            <?php
-
-            if ($_SESSION['type'] == "RRHH" && (isset($_GET['iu']))) {
-
-            ?>
-
-                <section class="features">
-
-                    <table class='table'>
-
-                        <tr>
-
-                            <td>Actualizar Fotografía:</td>
-
-                            <td>
-
-                                <a data-bs-toggle='modal' data-bs-target='#FormModalProfile' onclick="picture(<?= $iu ?>)" style='color: #0B79DE; cursor: pointer;'>
-
-                                    Actualizar
-
-                                </a>
-
-                            </td>
-
-                        </tr>
-
-                    </table>
-
-                </section>
-
-            <?php } ?>
+   
 
 
 
@@ -1084,15 +982,15 @@ $dataUser = $user->fetch();
 
                             <?php if ($iu == $_SESSION['iu'] || $_SESSION['type'] == "Administrador" || $_SESSION['type'] == "RRHH") { ?>
 
-                                <th style='text-align: right; color: blue'>
+                                <td style='text-align: right; color: white'>
 
                                     <a data-bs-toggle='modal' data-bs-target='#FormModalProfile' onclick='files()' style='color: #0B79DE; cursor: pointer;'>
 
-                                        Añadir Documento
+                                        Añadir Documentos
 
                                     </a>
 
-                                </th>
+                                </td>
 
                             <?php } ?>
 
@@ -1122,9 +1020,9 @@ $dataUser = $user->fetch();
 
                                 echo "<tr>
 
-                                    <th>$data[2]</th>
+                                    <td>$data[2]</td>
 
-                                    <th>
+                                    <td>
 
                                         <a href='process/documents/$data[3]' target='_blank'>
 
@@ -1134,13 +1032,13 @@ $dataUser = $user->fetch();
 
                                         <a>
 
-                                    </th>";
+                                    </td>";
 
                                 //Hablitar botón eliminar al dueño del perfil
 
                                 if ($iu == $_SESSION['iu'] || $_SESSION['type'] == "Administrador" || $_SESSION['type'] == "RRHH") {
 
-                                    echo "<th>
+                                    echo "<td>
 
                                             <form action='process/' method='post'>
 
@@ -1162,7 +1060,7 @@ $dataUser = $user->fetch();
 
                                             </form>
 
-                                        </th>";
+                                        </td>";
 
                                 }
 
